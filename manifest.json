@@ -1,0 +1,11 @@
+{
+  "name": "شهر آگهی",
+  "short_name": "شهر آگهی",
+  "description": "برنامه خرید و فروش و ثبت آگهی",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#7c3aed",
+  "theme_color": "#7c3aed",
+  "dir": "rtl",
+  "lang": "fa"
+}
